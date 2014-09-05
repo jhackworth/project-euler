@@ -1,2 +1,2 @@
-project-euler
+Various Code Challenges
 =============
